@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 350PX;
+    font-weight: bold;
+    font-size: 4em;
+    color: white;
+    
+}
+body{
+    background-color: black;
+}
